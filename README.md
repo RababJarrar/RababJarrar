@@ -9,8 +9,9 @@ I believe that hard work, precision and creativity are essential in solving mode
 My goal is to continue to learn and grow and to do my best to serve my community and the people around me
 #### Skills: HTML / CSS / Bootstrap/ MYSQL/ JavaScript / JAVA / Python/Django/Flask /Node JS.
  
-#####	📫 How to reach me: email: rababjarrar7@gmail.com
+#### How to reach me ? 
+#####	📫 email: rababjarrar7@gmail.com
 #####	🌱 linkedIn: https://www.linkedin.com/in/rabab-jarrar/
-#####	😄 Phone: 0568878976
+
 
 
