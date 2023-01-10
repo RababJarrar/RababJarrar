@@ -7,7 +7,7 @@ At AXSOS academy, I went through an intensive full-stack development bootcamp.
 I learned web fundamentals such as HTML, CSS, and JavaScript, as well as Python (Flask, Django) frameworks, Java using (spring boot) framework and MERN.
 I believe that hard work, precision and creativity are essential in solving modern day problems. 
 My goal is to continue to learn and grow and to do my best to serve my community and the people around me
-#### Skills: HTML / CSS / Bootstrap/ MYSQL/ JavaScript / JAVA / Python/Django/Flask /Node JS.
+#### Skills: HTML / CSS / JavaScript / Bootstrap/ MYSQL/ JAVA / Python / Django / Flask / Node JS / MERN.
  
 #### How to reach me ? 
 #####	📫 email: rababjarrar1997@gmail.com
