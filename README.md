@@ -10,7 +10,7 @@ My goal is to continue to learn and grow and to do my best to serve my community
 #### Skills: HTML / CSS / JavaScript / Bootstrap/ MYSQL/ JAVA / Python / Django / Flask / Node JS / MERN.
  
 #### How to reach me ? 
-#####	📫 email: rababjarrar1997@yahoo.com
+#####	📫 email: Rabab.Jarrar@hotmail.com
 #####	🌱 linkedIn: https://www.linkedin.com/in/rabab-jarrar/
 
 
